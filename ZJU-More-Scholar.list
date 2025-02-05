@@ -2,7 +2,7 @@
 # 此处仅添加既能通过统一身份认证访问又能通过 IP 访问的资源
 # 不可与 ZJU.list 中的学术资源重复
 #DOMAIN-SUFFIX,canvas-user-content.com
-DOMAIN-KEYWORD,illinois
+#DOMAIN-KEYWORD,illinois
 DOMAIN-SUFFIX,iclicker.com
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,ieee.org
